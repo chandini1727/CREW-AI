@@ -16,3 +16,17 @@ This is a simple Python project that reads and explains PDF files, like technica
  - Makes line and bar graphs from PDF data.
  - Saves results and graphs as files.
 -Lets you ask questions about the PDF.
+## Requirements
+- Python 3.8 or newer.
+- Libraries (install with):
+   ```
+     # Install required packages
+     !pip install crewai langchain-openai pymupdf python-dotenv pytesseract matplotlib -q
+     !apt-get install tesseract-ocr -y
+   ```
+
+
+
+
+
+
